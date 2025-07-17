@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/javorraca-tidymodels-mcp-badge.png)](https://mseep.ai/app/javorraca-tidymodels-mcp)
+
 # Tidymodels MCP Server
 
 ![](tidymodels_mcp_banner.png)
